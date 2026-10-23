@@ -1,0 +1,12 @@
+.DS_Store
+*.log
+.idea/
+.vscode/
+
+# 本次交接的中间产物（不入库）
+demo/_*.json
+demo/_patch*.py
+HANDOFF.md
+
+# Python
+__pycache__/
